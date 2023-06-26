@@ -1,6 +1,8 @@
 <h1 align="center"> 150 Pokémon </h1>
 
-
+<p align="center">
+  <img alt="projeto DevLinks" src=".github/pokedex.png" width="100%">
+</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -29,8 +31,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Foi feito usando a Pokeapi.
 
-## 🔖 Layout
-<p align="center">
-  <img alt="projeto DevLinks" src=".github/pokedex.png" width="100%">
-</p>
+
 
