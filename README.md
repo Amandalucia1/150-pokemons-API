@@ -65,14 +65,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
  <br />
 
 
- [![Linkedin Badge](https://img.shields.io/badge/-Amanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/amanda-lucia-ribeiro-pereira-434892229/)](www.linkedin.com/in/amanda-lucia-ribeiro-pereira-434892229/) 
+ [![Linkedin Badge](https://img.shields.io/badge/-Amanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-lucia-ribeiro-pereira-434892229/)](https://www.linkedin.com/in/amanda-lucia-ribeiro-pereira-434892229/) 
 [![Gmail Badge](https://img.shields.io/badge/-amandalucia2902@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amandalucia2902@gmail.com)](mailto:amandalucia2902@gmail.com)
 
 ---
 
 
 
-Feito com ❤️ por Amanda Lucia 👋🏽 [Entre em contato!](www.linkedin.com/in/amanda-lucia-ribeiro-pereira-434892229/)
+Feito com ❤️ por Amanda Lucia 👋🏽 [Entre em contato!](https://www.linkedin.com/in/amanda-lucia-ribeiro-pereira-434892229/)
 
 
 
