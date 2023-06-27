@@ -56,7 +56,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 </p>
 
 
-
+---
 
 ## 🦸 Autor
 
