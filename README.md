@@ -20,6 +20,8 @@
 
 Desenvolvi uma página com 150 cards de pokémons que são requisitadas através do pokeApi.
 
+---
+
 ## ⚙️ Funcionalidades
 
 - [x] Pessoas num geral terão acesso :
@@ -36,6 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
+---
 ## 🎨 Layout
 
 ### Mobile
